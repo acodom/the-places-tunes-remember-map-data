@@ -1,0 +1,16 @@
+{
+  "type": "Feature",
+  "properties": {
+    "name": "Cheat River"
+  },
+  "geometry": {
+    "type": "LineString",
+    "coordinates": [
+      [-79.82, 39.55],
+      [-79.76, 39.40],
+      [-79.71, 39.27],
+      [-79.68, 39.11],
+      [-79.86, 38.95]
+    ]
+  }
+}
