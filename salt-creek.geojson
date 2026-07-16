@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-16T12:57:05Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/506793616",
+        "bridge": "covered",
+        "highway": "residential",
+        "layer": "1",
+        "name": "Bean Blossom",
+        "surface": "wood",
+        "tiger:cfcc": "A41",
+        "tiger:county": "Brown, IN",
+        "tiger:name_base": "Covered Bridge",
+        "tiger:name_type": "Rd",
+        "tiger:reviewed": "no",
+        "tiger:zip_left": "47448",
+        "tiger:zip_right": "47448",
+        "wikidata": "Q114094183",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.255232,
+          39.260861
+        ]
+      },
+      "id": "way/506793616"
+    }
+  ]
+}
